@@ -35,4 +35,6 @@ nosetests.xml
 .project
 .pydevproject
 
+# Mac rubbish
+.DS_Store
 /ve/
